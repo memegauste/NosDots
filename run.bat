@@ -1,0 +1,1 @@
+NostaleClientX.exe EntwellNostaleClient
