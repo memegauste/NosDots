@@ -1,4 +1,6 @@
 # NosTale dot files
+![skills](skills.png)
+
 This project contains two files:
 * skills.png - my actuall skill setup - I use it three years.
 * run.bat - useful script for Wine (linux winapi wrapper) workaround since gameforge launcher does not launch the game.
