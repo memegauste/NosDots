@@ -1,0 +1,2 @@
+export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
+wine /home/hoshi/.steam/steam/steamapps/common/NosTale/NostaleClientX.exe EntwellNostaleClient
